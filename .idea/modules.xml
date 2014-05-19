@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidTakeTwo.iml" filepath="$PROJECT_DIR$/AndroidTakeTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WiBeanTakeTwo/WiBeanTakeTwo.iml" filepath="$PROJECT_DIR$/WiBeanTakeTwo/WiBeanTakeTwo.iml" />
+    </modules>
+  </component>
+</project>
+
